@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:sih2024_beta/main.dart';
+import 'package:sih2024_beta/backend_trials/loc_traker.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
